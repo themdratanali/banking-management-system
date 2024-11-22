@@ -2,7 +2,7 @@
 
 Bank Management System is based on the concept of recording customers’ account details. Here the user can perform all the tasks like creating an account, deposit amount, withdraw amount, check balance, view all account holders detail, close an account and modify an account. All the main features for banking system are set in this project.
 
-https://mdratanali58.github.io/Banking-Management-System-Project/
+https://mdratanali58.github.io/banking-management-system/
 
 ## Features:
 * Login System
